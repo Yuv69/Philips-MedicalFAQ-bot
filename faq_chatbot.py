@@ -190,7 +190,7 @@ import json
 from gtts import gTTS
 import base64
 
-DATA_FOLDER = r"C:\Users\yuvra\OneDrive\Desktop"
+DATA_FOLDER = r""
 MERGED_JSON = os.path.join(DATA_FOLDER, "merged_faq.json")
 
 @st.cache_data
